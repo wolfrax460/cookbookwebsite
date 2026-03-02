@@ -4,7 +4,7 @@
 
 Built by **Martin**, a **Frontend Website Developer** from Kigali, Rwanda.
 
-![Cookbook Preview](https://picsum.photos/id/1015/1200/630)
+![Cookbook Preview](https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 ---
 
@@ -27,7 +27,7 @@ Just double-click `cookbook-prototype.html` — **no installation needed**.
 - Upload recipe form with dynamic fields and image upload
 - Smooth navigation, hover effects, and responsive design
 
-All built with clean frontend code by a **Frontend Website Developer**.
+All built with clean frontend code.
 
 ---
 
@@ -44,16 +44,16 @@ All built with clean frontend code by a **Frontend Website Developer**.
 
 ## 📸 Screenshots
 
-![Homepage](https://picsum.photos/id/1015/800/500)  
-**Homepage**
+![Homepage](https://images.unsplash.com/photo-1551218808-94e220e084d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)  
+**Homepage – Hero & Featured Recipes**
 
-![Recipe Listing](https://picsum.photos/id/201/800/500)  
-**Recipe Grid + Filters**
+![Recipe Listing](https://images.unsplash.com/photo-1600585153490-76fb20a32601?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)  
+**Recipe Grid with Filters & Search**
 
-![Recipe Detail](https://picsum.photos/id/292/800/500)  
-**Recipe Detail Page**
+![Recipe Detail](https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)  
+**Recipe Detail Page – Pasta Carbonara**
 
-![Upload Page](https://picsum.photos/id/870/800/500)  
+![Upload Page](https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)  
 **Upload Recipe Form**
 
 ---
